@@ -1,4 +1,4 @@
-module huh
+module WaS-tHiS-uSeLeSs
 
 go 1.16
 
